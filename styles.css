@@ -1,18 +1,18 @@
 /* ================================================================
-   Tech Dispatch – styles.css
-   Professional IT Services | Anchorage, Alaska
+   Tactivo Technologies – styles.css
+   Innovative IT Solutions
    ================================================================ */
 
 /* ---------- CSS Custom Properties ---------- */
 :root {
   /* Colors */
-  --clr-bg: #070f1f;
-  --clr-surface: #0a1628;
-  --clr-surface-2: #0f2044;
-  --clr-border: rgba(56, 189, 248, 0.12);
-  --clr-primary: #38bdf8;
-  --clr-primary-dark: #0ea5e9;
-  --clr-accent: #f97316;
+  --clr-bg: #0d0a12;
+  --clr-surface: #130e1e;
+  --clr-surface-2: #1e1230;
+  --clr-border: rgba(217, 30, 91, 0.15);
+  --clr-primary: #d91e5b;
+  --clr-primary-dark: #b81649;
+  --clr-accent: #ff6b9d;
   --clr-text: #e2e8f0;
   --clr-text-muted: #94a3b8;
   --clr-white: #ffffff;
@@ -44,7 +44,7 @@
   --shadow-sm: 0 1px 3px rgba(0,0,0,.3), 0 1px 2px rgba(0,0,0,.2);
   --shadow-md: 0 4px 16px rgba(0,0,0,.4);
   --shadow-lg: 0 20px 60px rgba(0,0,0,.5);
-  --shadow-glow: 0 0 40px rgba(56,189,248,.15);
+  --shadow-glow: 0 0 40px rgba(217,30,91,.15);
 
   /* Transitions */
   --transition-fast: 150ms ease;
