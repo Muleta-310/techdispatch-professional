@@ -1,12 +1,12 @@
-# Tech Dispatch – Professional IT Services Website
+# Tactivo Technologies – Innovative IT Solutions Website
 
-A complete, modern, production-ready website for **Tech Dispatch**, Alaska's premier IT services provider since 1986.
+A complete, modern, production-ready website for **Tactivo Technologies** – solutions designed with the customer in mind.
 
 ## Features
 
 - **Single-page application** with smooth scroll navigation
 - **Fully responsive** – mobile-first design (320 px → 1920 px)
-- **Dark professional theme** with deep blues and cyan/orange accents
+- **Dark professional theme** with magenta/pink brand colors
 - **Pure HTML / CSS / JavaScript** – zero frameworks, zero build steps
 - **Accessible** – semantic HTML5, ARIA labels, keyboard navigation, reduced-motion support
 - **SEO-ready** – meta tags, Open Graph, Twitter Card, canonical URL
@@ -19,9 +19,9 @@ A complete, modern, production-ready website for **Tech Dispatch**, Alaska's pre
 |---|---|
 | Header / Nav | Fixed navbar with smooth scroll, active link highlighting, mobile hamburger |
 | Hero | Full-viewport hero with gradient background, floating badges, CTA buttons |
-| Stats | Animated counter strip: years, clients, satisfaction, support hours |
-| Services | 6-card service grid: Home IT, Business, Enterprise, Install, Consulting, 24/7 |
-| About | Company history since 1986, values, experience badge |
+| Stats | Animated counter strip: team members, clients, solutions deployed, uptime |
+| Services | 8-card service grid: CCTV, Access Control, Maestro Suite, Custom Software, Network, Fuel Automation, Telematics, Support |
+| About | Company story, values: Expert Team, Proven Solutions, Innovative Technology, Committed Partner |
 | Testimonials | 3-column client testimonial cards |
 | Contact | Two-column layout with contact details and validated form |
 | Footer | Brand, quick links, services, contact info |
@@ -77,11 +77,11 @@ Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
 | What | Where |
 |---|---|
 | Colors / fonts / spacing | `:root` variables at the top of `styles.css` |
-| Phone / email / address | `index.html` – search for `(907)`, `info@techdispatch`, `123 Tech` |
+| Email / address | `index.html` – search for `info@tactivo.com` |
 | Social links | Footer `<a>` tags in `index.html` |
 | Services copy | `<article class="service-card">` blocks in `index.html` |
 | Stats targets | `data-target` attributes on `.stat-card__number` elements |
 
 ## License
 
-© Tech Dispatch. All rights reserved.
+© Tactivo Technologies. All rights reserved.
